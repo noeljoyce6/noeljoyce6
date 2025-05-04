@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an aspiring **Electronics and Communication En
 ### 🚀 About Me:
 - 🔧 Currently working on **Smart Helmet Project** using ESP32 for rider safety.
 - 🧑‍💻 I'm passionate about **semiconductors**, **VLSI design**, and **electronics**.
-- 🏫 Currently a **3rd-year Electronics & Communication Engineering student** at **[Your College Name]**.
+- 🏫 Currently a **3rd-year Electronics & Communication Engineering student** at Amal Jyothi College of Engineering.
 - 🌱 I’m currently learning **PCB design**, **embedded systems programming**, and **AI/ML** integration with electronics.
 
 ### 🛠️ Technologies & Tools:
