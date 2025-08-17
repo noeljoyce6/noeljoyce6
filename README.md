@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an aspiring **Electronics and Communication En
 - 🌱 I’m currently learning **PCB design**, **embedded systems programming**, and **AI/ML** integration with electronics.
 
 ### 🛠️ Technologies & Tools:
-- **Embedded Systems**: Arduino, ESP32, STM32, Raspberry Pi
+- **Embedded Systems**: Arduino, ESP32
 - **Programming**: C, Python, MATLAB
 - **Tools**: Altium Designer, KiCad, LTSpice, Proteus, MATLAB, Simulink
 - **Web/Software**: Git, GitHub, Visual Studio Code
