@@ -1,148 +1,216 @@
-# 👋 Hi, I'm Noel Joyce Varghese
+<h1 align="center">Hi, I'm Noel Joyce Varghese 👋</h1>
 
-**Embedded Hardware Design Engineer** specializing in **PCB design, mixed-signal electronics, power electronics, and robotics hardware** for aerospace, defence, and autonomous platforms.
+<h3 align="center">
+Avionics & Embedded Hardware Design Engineer | PCB Design | UAV Systems | Embedded Firmware
+</h3>
 
-Currently working as a **PCB Design Intern at PSYC Aerospace & Defence Industries** (Bengaluru), building production-grade embedded hardware systems.
-
----
-
-## 🎯 About Me
-
-* 🔧 **Current Role**: PCB Design Intern at PSYC Aerospace & Defence Industries
-* 🎓 **Education**: B.Tech in Electronics & Communication Engineering (Amal Jyothi College of Engineering, graduating Apr 2026)
-* 🧠 **Expertise**: Schematic design, multilayer PCB layout, board bring-up, hardware validation, mixed-signal electronics, power electronics
-* 📡 **Focus Areas**: Embedded control systems, motor control electronics, aerospace/defence electronics, robotics hardware integration
-* 🛠️ **Approach**: Production-ready hardware development with emphasis on signal/power integrity, DFM considerations, and system integration
-* 📚 **Continuous Learning**: Advanced PCB design workflows, high-frequency electronics, RF design fundamentals, and embedded system architecture
+<p align="center">
+Building reliable hardware for UAVs, robotics, and aerospace applications.
+</p>
 
 ---
 
-## 🛠️ Core Technical Skills
+## 🚀 About Me
 
-### Hardware & PCB Design
-- **Schematic Capture & Layout**: Multilayer PCB design, controlled impedance routing, high-current routing, grounding & power distribution
-- **Mixed-Signal Design**: Analog-digital integration, signal integrity, power integrity, EMC/EMI awareness
-- **Standards & Methodologies**: IPC-2221, IPC-7351, DFM/DFA, design documentation, Gerber release
-- **Design Tools**: Altium Designer, KiCad, OrCAD, Cadence Virtuoso, LTspice, Proteus
+I'm an **Avionics & Embedded Hardware Design Engineer** passionate about developing reliable electronics for aerospace, UAVs, robotics, and embedded systems.
 
-### Embedded Systems & Integration
-- **Microcontroller Platforms**: STM32 (STM32G431, STM32F4), ESP32, Raspberry Pi, Arduino
-- **Communication Interfaces**: SPI, I2C, UART, CAN, USB
-- **Sensor Integration**: ADC/DAC, analog frontend design, signal conditioning
-- **Power Electronics**: DC-DC converters, LDOs, motor drivers, protection circuits, BLDC motor control
+I enjoy taking products from **concept to deployment**—starting with system architecture and schematic design, through multilayer PCB layout, embedded firmware development, board bring-up, validation, and production support.
 
-### Embedded Control & Motor Electronics
-- **Motor Control**: Field-Oriented Control (FOC), BLDC drivers, current sensing, feedback control
-- **Real-Time Systems**: Embedded control loops, actuator interfacing, telemetry integration
+My primary interests include:
 
-### Programming & Development
-- **Languages**: C, C++, Python
-- **Development Tools**: Git, VS Code, Arduino IDE, MATLAB
-- **Validation**: Oscilloscope, logic analyzer, board bring-up, debugging, soldering/rework
+- ✈️ Avionics Systems
+- 🚁 UAV Electronics
+- ⚡ Embedded Hardware Design
+- 🔷 Multilayer PCB Design
+- 🔧 Embedded Firmware Development
+- 🔋 Power Electronics
+- 🤖 Robotics
+- 📡 Communication Protocols
+- 🚀 Aerospace Electronics
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### PCB Design Intern — PSYC Aerospace & Defence Industries
-*Nov 2025 – Present | Bengaluru, India*
+### Avionics Design Engineer
+**PSYC Aerospace & Defence Industries Pvt. Ltd.**
 
-- Engineered production-grade hardware for **8+ embedded hardware projects** spanning aerospace and robotics applications
-- **Schematic capture & PCB layout** for complex mixed-signal systems with real-time control requirements
-- Integrated **multi-protocol communication interfaces** (SPI/I2C/UART/CAN) into embedded platforms
-- Executed **board bring-up, validation, debugging**, soldering/rework, and fabrication release workflows
-- Generated **BOMs and design documentation** for manufacturing and assembly
+Working on embedded avionics platforms including:
 
-### Analog Design Intern — IIIT Kottayam
-*Jun 2025 | Kerala, India*
-
-- Simulated **5 GHz current-starved CMOS VCO** using LTspice and Cadence Virtuoso
-- Analyzed **transistor-level RF design** fundamentals for oscillator and high-frequency applications
-- Strengthened understanding of **analog circuit behavior** and frequency-domain analysis
-
----
-
-## 🚀 Highlighted Projects
-
-### ⚙️ **Unified Field-Oriented Control (FOC) Motor Controller Board** — Production-Grade
-- **Architecture**: 4-layer, 50mm × 50mm compact PCB using STM32G431 + DRV8353R driver IC
-- **Features**: Real-time FOC control, three-phase current sensing, protection circuitry, regenerative braking, CAN-based closed-loop interface
-- **Application**: BLDC motor control for robotics and propulsion systems
-- **Status**: Designed and validated
-
-### 🚁 **Minima Flight Controller (CM5-based)** — Ongoing
-- **Architecture**: 6-layer high-density PCB around Raspberry Pi Compute Module 5
-- **Scope**: Compact flight controller for UAV applications with challenging form-factor constraints
-- **Focus**: High-density routing, power distribution optimization, sensor integration, peripheral interfacing
-- **Status**: Architecture phase, PCB layout in progress
-
-### 🎯 **Nemo Winch V3.0 — Drone Payload Delivery Control Board**
-- **Function**: Mission-critical control PCB for UAV-based winch deployment systems
-- **Integration**: Motor drive electronics, encoder feedback sensing, servo actuation control, Pixhawk-compatible telemetry interfaces
-- **Design**: Custom embedded PCB with mixed-signal control architecture
-- **Application**: Autonomous payload delivery and aerial manipulation
-
-### 🛡️ **Automated Security & Deterrent System — Detection/Actuation Board**
-- **Sensors**: ESP32-CAM, mmWave radar, PIR motion detection
-- **Actuation**: Servo control, dual-rail power gating
-- **Architecture**: Integrated surveillance and automated response platform
-- **Focus**: Low-latency sensor-to-actuation pipeline, power efficiency
-
-### 📊 **Wireless 4-Channel EEG Acquisition System Board**
-- **Mixed-Signal Design**: AD623 analog front-end, precision signal conditioning
-- **Wireless Streaming**: BLE (Bluetooth Low Energy) connectivity for real-time data acquisition
-- **Application**: Wearable neuroscience research platform
-- **Emphasis**: Low-noise design, signal integrity, RF coexistence
-
-### 👷 **Smart Helmet for Accident & Health Monitoring**
-- **Sensors**: ESP32, MAX30105 (PPG heart rate), MPU6050 (IMU), GPS, GSM, IR sensors
-- **Application**: Wearable IoT platform for real-time health and accident detection
-- **Analysis**: EEG-based health simulation and signal processing in MATLAB
-- **Integration**: Multi-sensor fusion with cellular connectivity
-
-### 🤖 **Vanguard MK1 — Search & Rescue Crawling Robot** — Academic Project
-- **Control Architecture**: Raspberry Pi 5 + PCA9685 servo controller for 12-DOF locomotion
-- **Actuation**: MG90 servo integration, multi-servo coordination
-- **Sensing**: Time-of-Flight LiDAR for autonomous navigation
-- **Current Work**: Developing control PCB for locomotion command, sensor interfacing, and distributed power management
-- **Application**: Autonomous search & rescue robotics platform
+- UAV Flight Electronics
+- Pixhawk Integration
+- MAVLink Communication
+- Custom Embedded Controllers
+- Hardware Architecture
+- PCB Design
+- Embedded Firmware
+- Board Bring-up
+- Prototype Validation
 
 ---
 
-## 📌 Leadership & Technical Contributions
+## 🛠️ Technical Skills
 
-### Educational & Community Leadership
-- **PCB Workshop Facilitator**: Led hands-on PCB design workshop for ECE students covering schematic design, KiCad layout, PCB fabrication, and soldered assembly of mini audio amplifier board in collaboration with ECE department
-- **NASA Space Apps Challenge**: Core team member supporting technical planning and execution across 2 annual editions
-- **Innovation & Startups**: Active volunteer under IEDC/Kerala Startup Mission, driving hardware-focused technical initiatives and innovation workshops
+### Hardware Design
+
+- Multilayer PCB Design
+- Mixed Signal PCB
+- High-Speed PCB
+- Controlled Impedance
+- Differential Pair Routing
+- Signal Integrity
+- Power Integrity
+- DFM / DFA
+- Gerber Generation
+- Manufacturing Support
+
+### Embedded Systems
+
+- STM32
+- ESP32
+- Raspberry Pi CM5
+- PlatformIO
+- Embedded C/C++
+
+### Communication
+
+- SPI
+- UART
+- I2C
+- CAN
+- USB
+- MAVLink
+
+### EDA Tools
+
+- Altium Designer
+- KiCad
+- OrCAD
+- Cadence Virtuoso
+- LTspice
+
+### Hardware Validation
+
+- Oscilloscope
+- Logic Analyzer
+- Prototype Validation
+- Hardware Debugging
 
 ---
 
+# 🚀 Featured Projects
 
-## 🎯 Current & Future Interests
+## ✈️ APEX — Intelligent UAV Payload Controller
 
-- **Embedded Product Development**: From prototype to production-grade hardware
-- **Advanced PCB Design**: High-speed digital, RF design, HDI (High-Density Interconnect)
-- **Motor Control & Power Electronics**: Brushless motor control, power conversion, thermal management
-- **Robotics Electronics**: Autonomous systems, real-time control, sensor fusion
-- **Aerospace & Defence Hardware**: Avionics, mission-critical embedded systems, radiation-hardened designs
-- **System Integration**: Multi-layer embedded architectures, power distribution networks, EMC considerations
+ESP32-based avionics controller integrating Pixhawk flight controllers through MAVLink.
 
----
+**Features**
 
-## 📫 Let's Connect
-
-- **LinkedIn**: [linkedin.com/in/noel-joyce-varghese](https://linkedin.com/in/noel-joyce-varghese)
-- **Email**: [noeljoyce6@gmail.com](mailto:noeljoyce6@gmail.com)
-- **Phone**: +91 8590607872
-
-## 📖 Resources & Standards
-
-Working with:
-- **IPC Standards**: IPC-2221 (generic PCB design), IPC-7351 (land pattern design)
-- **Design Methodologies**: DFM (Design for Manufacturing), DFA (Design for Assembly), EMC/EMI considerations
-- **Documentation**: Schematics, BOMs, Gerber files, assembly drawings, design notes
+- MAVLink Integration
+- Pixhawk Interface
+- OTA Firmware Updates
+- Browser Configuration
+- RC Payload Control
+- PCA9685 Servo Expansion
 
 ---
 
-*Thanks for visiting! Explore my repositories to see detailed hardware projects, PCB designs, embedded firmware, and technical documentation. Feel free to reach out for collaboration on embedded hardware, robotics electronics, or aerospace systems.*
+## 🪝 SKYHOOK — Precision UAV Payload Winch Controller
+
+Embedded winch controller designed for UAV payload deployment.
+
+**Features**
+
+- Encoder Feedback
+- MAVLink Control
+- Safety Interlocks
+- UART Telemetry
+- Motor Driver Integration
+
+---
+
+## ⚡ VECTOR — High-Performance FOC Motor Controller
+
+4-layer STM32G431 motor controller for high-performance BLDC applications.
+
+**Features**
+
+- STM32G431
+- DRV8353R
+- CAN Communication
+- Current Sensing
+- Active Braking
+- Protection Circuits
+
+---
+
+## 🛰️ MINIMA — Autonomous Mission Computer
+
+Compact 6-layer CM5 companion computer for autonomous UAV applications.
+
+**Features**
+
+- Raspberry Pi Compute Module 5
+- PCIe
+- NVMe
+- MAVLink
+- AI Accelerator Ready
+- SLAM Support
+
+---
+
+## 🧠 Wireless EEG Acquisition System
+
+Low-noise biomedical signal acquisition hardware.
+
+**Features**
+
+- AD623 Analog Front-End
+- BLE Communication
+- Mixed Signal PCB
+- Shielded Analog Design
+
+---
+
+# 📊 Current Focus
+
+- Advanced PCB Design
+- UAV Avionics
+- Embedded Linux
+- STM32 Development
+- High-Speed PCB Design
+- Power Electronics
+- Flight Controllers
+- AI Companion Computers
+- Autonomous UAV Systems
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noeljoyce6&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeljoyce6&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+noeljoyce6@gmail.com
+
+💼 **LinkedIn**
+https://linkedin.com/in/noel-joyce-varghese
+
+🌐 **Portfolio**
+https://noeljoyce6.github.io
+
+---
+
+## 💡 Philosophy
+
+> "Great hardware isn't just about designing a PCB—it's about engineering reliable systems that perform flawlessly in the real world."
